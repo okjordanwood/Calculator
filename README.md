@@ -32,6 +32,8 @@ A simple console-based calculator application built in C++ that supports various
   - To exit, select the 8 option from the menu.
 
 
+### Contribution
+Feel free to contribute to this project by submitting issues or pull requests. If you have any suggestions for new features or improvements, please let me know!
 
 ### Author
 Jordan Wood (Copyright 2024)
