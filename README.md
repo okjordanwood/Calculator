@@ -15,6 +15,24 @@ A simple console-based calculator application built in C++ that supports various
 - C++ Compiler: Ensure you have a C++ compiler installed (e.g., GCC, Clang).
 - C++ Standard: C++11 or higher is recommended.
 
+## Usage
+1. Run the Application:
+  - Start the application by executing the compiled binary as shown above.
+
+2 Select an Operation:
+  - You will be presented with a menu of operations. Enter the number corresponding to your desired operation.
+
+3. Input Numbers:
+  - Depending on the operation selected, enter the required numbers. For operations other than square root, provide two numbers. For square root, provide only one number.
+
+4. View Result:
+  - The application will display the result of the selected operation.
+
+5. Exit the Application:
+  - To exit, select the 8 option from the menu.
+
+
+
 ### Author
 Jordan Wood (Copyright 2024)
 
