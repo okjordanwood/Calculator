@@ -14,3 +14,9 @@ A simple console-based calculator application built in C++ that supports various
 ## Requirements
 - C++ Compiler: Ensure you have a C++ compiler installed (e.g., GCC, Clang).
 - C++ Standard: C++11 or higher is recommended.
+
+### Author
+Jordan Wood (Copyright 2024)
+
+### License
+This program is provided under the copyright and license terms specified by Jordan Wood in 2023.
